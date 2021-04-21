@@ -1,16 +1,17 @@
-### shshahahahauhsubsuqnuqnunquqnuwnwunuwnaununaa
+### what are you doing here
 
-<!--
-**mistertfy64/mistertfy64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages I'm decent at:
 
-Here are some ideas to get you started:
+Java, JavaScript, HTML, CSS and maybe English.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages I suck but know the basics of:
+
+C++, C#, Batch <---- i used to make "ransomware" with batch when i was like 10 or something and now im older i realized that it wasnt cool so please forgive me, the 0 people that got affected by my "ransomware"
+
+## Fun Facts
+
+No fun facts. hahahahhaha
+
+## Contact
+
+TODO
