@@ -3,8 +3,9 @@
 ## What I'm currently working on:
 Mathematical Base Defense: The revolutionary math game that will "change" how you learn math, or not.
 
-<a href="https://www.github.com/mistertfy64/mathematicalbasedefense">Repository</a> | <a href="https://mathematicalbasedefense.com">Website</a>
+<a href="https://www.github.com/mistertfy64/mathematicalbasedefense">Repository (new so there's nothing)</a> | <a href="https://mathematicalbasedefense.com">Website</a>
 
+<a href="https://www.github.com/KG07/mathematical-base-defense">Mathematical Base Defense's Old Repository</a>
 
 ## Languages I'm decent at:
 
