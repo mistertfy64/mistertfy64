@@ -1,5 +1,11 @@
 ### what are you doing here
 
+## What I'm currently working on:
+Mathematical Base Defense: The revolutionary math game that will "change" how you learn math, or not.
+
+<a href="https://www.github.com/mistertfy64/mathematicalbasedefense">Repository</a> | <a href="https://mathematicalbasedefense.com">Website</a>
+
+
 ## Languages I'm decent at:
 
 Java, JavaScript, HTML, CSS and maybe English.
