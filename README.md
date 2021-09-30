@@ -5,8 +5,6 @@ Mathematical Base Defenders: The revolutionary math game that has multiplayer, s
 
 <a href="https://mathematicalbasedefenders.com">Website</a>
 
-<a href="https://www.github.com/KG07/mathematical-base-defense">Mathematical Base Defense's Old Repository</a>
-
 ## Languages I'm decent at:
 
 Java, JavaScript, HTML, CSS and maybe English.
@@ -23,6 +21,4 @@ im dumb
 
 im an idiot
 
-## Contact
-
-TODO
+<a href="https://mistertfy64.com">Visit my personal website</a>
