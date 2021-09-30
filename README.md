@@ -1,9 +1,9 @@
 ### what are you doing here
 
 ## What I'm currently working on:
-Mathematical Base Defense: The revolutionary math game that will "change" how you learn math, or not.
+Mathematical Base Defenders: The revolutionary math game that has multiplayer, score-saving and more.
 
-<a href="https://www.github.com/mistertfy64/mathematicalbasedefense">Repository (new so there's nothing)</a> | <a href="https://mathematicalbasedefense.com">Website</a>
+<a href="https://mathematicalbasedefenders.com">Website</a>
 
 <a href="https://www.github.com/KG07/mathematical-base-defense">Mathematical Base Defense's Old Repository</a>
 
