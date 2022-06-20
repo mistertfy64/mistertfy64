@@ -3,6 +3,12 @@
 ## What I'm currently working on:
 Mathematical Base Defenders: The revolutionary math game that has multiplayer, score-saving and more.
 
+<img src="https://img.shields.io/badge/dynamic/json?label=Users%20Registered%20on%20Mathematical%20Base%20Defenders&query=usersRegistered&url=https%3A%2F%2Fmathematicalbasedefenders.com%2Fapi%2Fmetadata">
+
+### My stats for Mathematical Base Defenders
+
+<img src="https://img.shields.io/badge/dynamic/json?label=Personal%20Best%20on%20Standard%20Mode&query=statistics.personalBestScoreOnStandardSingleplayerMode.score&url=https%3A%2F%2Fmathematicalbasedefenders.com%2Fapi%2Fusers%2Fmistertfy64">
+
 <a href="https://mathematicalbasedefenders.com">Website</a>
 
 ## Languages I'm decent at:
