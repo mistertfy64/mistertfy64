@@ -1,30 +1,17 @@
-### what are you doing here
+# Hello, I am mistertfy64 and I am a... stupid person!!!!!!!!1111 #mistertfy64เอ๋อ
 
-## What I'm currently working on:
-Mathematical Base Defenders: The revolutionary math game that has multiplayer, score-saving and more.
+## My projects
+[mistertfy64.com](https://mistertfy64.com) &#8226; Personal website filled with dumb stuff &#8226; Owner
 
-<img src="https://img.shields.io/badge/dynamic/json?label=Users%20Registered%20on%20Mathematical%20Base%20Defenders&query=usersRegistered&url=https%3A%2F%2Fmathematicalbasedefenders.com%2Fapi%2Fmetadata">
+[Mathematical Base Defenders](https://mathematicalbasedefenders.com) &#8226; "Fun" math game<sup>(note 1)</sup> which has <img src="https://img.shields.io/badge/dynamic/json?label=%e2%80%8b&query=usersRegistered&url=https%3A%2F%2Fmathematicalbasedefenders.com%2Fapi%2Fmetadata"> registered users so far &#8226; Game Master (fancy word for owner lol)
 
-### My stats for Mathematical Base Defenders
+## Contact
 
-<img src="https://img.shields.io/badge/dynamic/json?label=Personal%20Best%20on%20Standard%20Mode&query=statistics.personalBestScoreOnStandardSingleplayerMode.score&url=https%3A%2F%2Fmathematicalbasedefenders.com%2Fapi%2Fusers%2Fmistertfy64">
+Discord: `mistertfy64#0001`
 
-<a href="https://mathematicalbasedefenders.com">Website</a>
+E-mail: (my username on this site)`@`(my username on this site)`.com`
 
-## Languages I'm decent at:
+Twitter, Instagram, etc...: `@mistertfy64`
 
-Java, JavaScript, HTML, CSS and maybe English.
-
-## Languages I suck at but know the basics of:
-
-C++, C#, Python, Batch <---- i used to make "ransomware" with batch when i was like 10 or something and now im older i realized that it wasnt cool so please forgive me, the 0 people that got affected by my "ransomware"
-
-## Fun Facts
-
-im stupid
-
-im dumb
-
-im an idiot
-
-<a href="https://mistertfy64.com">Visit my personal website</a>
+## Footnotes
+<sup>(note 1)</sup>While it is a math game, [it is **not** a subsitute for a legitmate math tutor](https://blog.mistertfy64.com/post?id=62f4e4948350dd94fb416c71).
