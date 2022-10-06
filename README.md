@@ -1,5 +1,7 @@
 # Hello, I am mistertfy64 and I am a... stupid person!!!!!!!!1111 #mistertfy64เอ๋อ
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@48729117-f325-4248-81f4-81537be2c18c/79496808-2bf4-4c4f-a15b-724bacf43e0f.png" /></a>
+
 ## My projects
 [mistertfy64.com](https://mistertfy64.com) &#8226; Personal website filled with dumb stuff &#8226; Owner
 
