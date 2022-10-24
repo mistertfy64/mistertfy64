@@ -15,5 +15,9 @@ E-mail: (my username on this site)`@`(my username on this site)`.com`
 
 Twitter, Instagram, etc...: `@mistertfy64`
 
+## GIVE ME MONEY
+
+https://www.patreon.com/mistertfy64
+
 ## Footnotes
 <sup>(note 1)</sup>While it is a math game, [it is **not** a subsitute for a legitmate math tutor](https://blog.mistertfy64.com/post?id=62f4e4948350dd94fb416c71).
