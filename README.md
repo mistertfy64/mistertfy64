@@ -1,7 +1,7 @@
 # Hello! 
 My name is mistertfy64, and I am a stupid person who likes to make stuff harder for myself.
 
-Currently I am the Administrator of [Mathematical Base Defenders](https://mathematicalbasedefenders.com), a ~~fun~~ stupid "number-cruncher" styled math game with <img src="https://img.shields.io/badge/dynamic/json?label=%e2%80%8b&query=usersRegistered&url=https%3A%2F%2Fmathematicalbasedefenders.com%2Fapi%2Fmetadata"> registered players so far. I'm the only person working on this at the moment.
+Currently I am the Administrator of [Mathematical Base Defenders](https://mathematicalbasedefenders.com), a ~~fun~~ stupid "number-cruncher" styled math game with <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.mathematicalbasedefenders.com%2Fmetadata&query=%24.data.usersRegistered&style=flat-square&label=%20&color=%23eeeeee"> registered players so far. I'm the only person working on this at the moment.
 
 I also have a personal website, which is at [https://mistertfy64.com](https://mistertfy64.com) where you can learn more about me.
 
