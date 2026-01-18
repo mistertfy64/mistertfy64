@@ -9,4 +9,6 @@ I'm not that qualified to work in the software industry at the moment, but as a 
 
 Feel free to contact me through my contact methods listed through my website, and I will get back to you as soon as possible. Note that formal requests/inquiries should be sent through my e-mail address, but I read all my social media messages nonetheless.
 
+[![wakatime](https://wakatime.com/badge/user/48729117-f325-4248-81f4-81537be2c18c.svg)](https://wakatime.com/@48729117-f325-4248-81f4-81537be2c18c)
+
 ![Math Game Creator](math-game-creator-moment.png) 
